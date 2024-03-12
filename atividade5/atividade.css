@@ -1,0 +1,17 @@
+.lista{
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
+
+.lista li:first-child{
+    background-color: blueviolet;
+    color: rgb(99, 199, 133);
+}
+
+.lista li:last-child{
+    background-color: brown;
+    border: none;
+}
